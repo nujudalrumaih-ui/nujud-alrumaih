@@ -24,8 +24,7 @@
 
 ### 1. 📊 [لوحة تحكم وتحليل البيانات - Interactive Dashboard]
 - **الوصف:** لوحة تفاعلية باستخدام Excel و Power BI لمتابعة الشحنات وتحليل الأداء الداخلي.
-- **التقنيات المستخدمة:** Excel VBA, Power Query, Power BI.
-- **[رابط المشروع](./) *(يمكنك وضع رابط المستودع هنا)***
+- **التقنيات المستخدمة:** Excel VBA, Power Query, Power BI 
 
 ### 2. ☕ [نظام إدارة الأكواد والمهام - Java Projects]
 - **الوصف:** تطبيق برمجيات بسيطة وتمارين هندسة البرمجيات والهياكل باستخدام Java.
@@ -41,11 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radial" alt="Top Languages" />
 </p>
 
-> ⚠️ **ملاحظة:** استبدلي `YOUR-USERNAME` باسم المستخدم الخاص بكِ في GitHub للظهور بشكل صحيح.
 
 ---
 
 ## 📫 التواصل معي (Connect with Me)
 
-- 💼 **LinkedIn:** [رابط حسابك على لينكد إن](https://linkedin.com/in/YOUR-LINKEDIN)
-- ✉️ **Email:** your.email@example.com
+- 💼 **LinkedIn:**www.linkedin.com/in/nujudalrumaih 
+- ✉️ **Email:** nujud.alrumaih@gmail.com
